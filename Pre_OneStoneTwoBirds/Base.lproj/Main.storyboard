@@ -276,7 +276,6 @@ SNS를 런칭하고 싶은 인규 
                     </view>
                     <connections>
                         <outlet property="AlbertTableView" destination="UEj-Fg-3hX" id="qNy-Sl-JeU"/>
-                        <outlet property="albertTableView" destination="UEj-Fg-3hX" id="UhP-vg-bwC"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="yNS-tH-TLf" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
