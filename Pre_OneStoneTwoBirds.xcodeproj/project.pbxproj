@@ -14,6 +14,7 @@
 		CA19E4E52C0966500022060B /* Base in Resources */ = {isa = PBXBuildFile; fileRef = CA19E4E42C0966500022060B /* Base */; };
 		CA19E4E72C0966510022060B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CA19E4E62C0966510022060B /* Assets.xcassets */; };
 		CA19E4EA2C0966510022060B /* Base in Resources */ = {isa = PBXBuildFile; fileRef = CA19E4E92C0966510022060B /* Base */; };
+		CA19E4F82C09C6A20022060B /* ViewControllerInwooo.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA19E4F72C09C6A20022060B /* ViewControllerInwooo.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		CA19E4E62C0966510022060B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CA19E4E92C0966510022060B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CA19E4EB2C0966510022060B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CA19E4F72C09C6A20022060B /* ViewControllerInwooo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerInwooo.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				CA19E4DD2C0966500022060B /* AppDelegate.swift */,
 				CA19E4DF2C0966500022060B /* SceneDelegate.swift */,
 				CA19E4E12C0966500022060B /* ViewController.swift */,
+				CA19E4F72C09C6A20022060B /* ViewControllerInwooo.swift */,
 				AB23FB442C09730700410DB9 /* AlbertViewController.swift */,
 				CA19E4E32C0966500022060B /* Main.storyboard */,
 				CA19E4E62C0966510022060B /* Assets.xcassets */,
@@ -145,6 +148,7 @@
 				CA19E4DE2C0966500022060B /* AppDelegate.swift in Sources */,
 				AB23FB452C09730700410DB9 /* AlbertViewController.swift in Sources */,
 				CA19E4E02C0966500022060B /* SceneDelegate.swift in Sources */,
+				CA19E4F82C09C6A20022060B /* ViewControllerInwooo.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
