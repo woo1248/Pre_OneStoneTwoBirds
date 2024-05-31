@@ -42,7 +42,7 @@
                                             <state key="normal" title="Button"/>
                                             <buttonConfiguration key="configuration" style="plain" title="더 보기"/>
                                             <connections>
-                                                <action selector="didTapMoreButton:" destination="BYZ-38-t0r" eventType="touchUpInside" id="zUY-CL-boI"/>
+                                                <action selector="didTapMoreButton:" destination="BYZ-38-t0r" eventType="touchUpInside" id="YTJ-uQ-1n9"/>
                                             </connections>
                                         </button>
                                     </subviews>
@@ -113,7 +113,8 @@ SNS를 런칭하고 싶은 인규 
                     </view>
                     <navigationItem key="navigationItem" id="K9n-wO-40X"/>
                     <connections>
-                        <outlet property="moreButton" destination="HaL-TX-MuE" id="FAl-1s-VJ5"/>
+                        <outlet property="introText" destination="Sng-qR-03o" id="O4d-pw-AFv"/>
+                        <outlet property="moreButton" destination="HaL-TX-MuE" id="wvr-3b-Pwf"/>
                         <outlet property="teamIntro" destination="pyK-Od-k2N" id="FxW-sJ-shB"/>
                     </connections>
                 </viewController>
