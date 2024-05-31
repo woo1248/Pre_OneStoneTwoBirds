@@ -7,13 +7,21 @@
 
 import UIKit
 
+
+
 class ViewController: UIViewController {
 
+    @IBOutlet weak var moreButton: UIButton!
+    @IBOutlet weak var introText: UIView!
+    
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
     }
 
+    @IBAction func didTapMoreButton(_ sender: UIButton) {introText.isHidden = !introText.isHidden}
+    }
+    
 
-}
 
