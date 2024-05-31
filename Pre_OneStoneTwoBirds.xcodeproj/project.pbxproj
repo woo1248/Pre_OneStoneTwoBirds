@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		AB23FB452C09730700410DB9 /* AlbertViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB23FB442C09730700410DB9 /* AlbertViewController.swift */; };
+		AB23FB472C09B65300410DB9 /* Type1.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB23FB462C09B65300410DB9 /* Type1.swift */; };
 		CA19E4DE2C0966500022060B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA19E4DD2C0966500022060B /* AppDelegate.swift */; };
 		CA19E4E02C0966500022060B /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA19E4DF2C0966500022060B /* SceneDelegate.swift */; };
 		CA19E4E22C0966500022060B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA19E4E12C0966500022060B /* ViewController.swift */; };
@@ -18,6 +19,7 @@
 
 /* Begin PBXFileReference section */
 		AB23FB442C09730700410DB9 /* AlbertViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlbertViewController.swift; sourceTree = "<group>"; };
+		AB23FB462C09B65300410DB9 /* Type1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Type1.swift; sourceTree = "<group>"; };
 		CA19E4DA2C0966500022060B /* Pre_OneStoneTwoBirds.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Pre_OneStoneTwoBirds.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CA19E4DD2C0966500022060B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		CA19E4DF2C0966500022060B /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -62,6 +64,7 @@
 				CA19E4DF2C0966500022060B /* SceneDelegate.swift */,
 				CA19E4E12C0966500022060B /* ViewController.swift */,
 				AB23FB442C09730700410DB9 /* AlbertViewController.swift */,
+				AB23FB462C09B65300410DB9 /* Type1.swift */,
 				CA19E4E32C0966500022060B /* Main.storyboard */,
 				CA19E4E62C0966510022060B /* Assets.xcassets */,
 				CA19E4E82C0966510022060B /* LaunchScreen.storyboard */,
@@ -142,6 +145,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				CA19E4E22C0966500022060B /* ViewController.swift in Sources */,
+				AB23FB472C09B65300410DB9 /* Type1.swift in Sources */,
 				CA19E4DE2C0966500022060B /* AppDelegate.swift in Sources */,
 				AB23FB452C09730700410DB9 /* AlbertViewController.swift in Sources */,
 				CA19E4E02C0966500022060B /* SceneDelegate.swift in Sources */,
